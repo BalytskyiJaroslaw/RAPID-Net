@@ -4,7 +4,8 @@ This directory contains Jupyter notebooks for preparing protein and ligand files
 
 ## Notebooks Overview
 
-### 1. `Prepare_Proteins_and_Ligands_for_docking.ipynb` 
+### 1. [`Prepare_Proteins_and_Ligands_for_docking.ipynb`](Prepare_Proteins_and_Ligands_for_docking.ipynb)
+ 
 This notebook is dedicated to preparing the protein and ligand files for docking:
 
 - **Protein processing:**
@@ -17,12 +18,12 @@ This notebook is dedicated to preparing the protein and ligand files for docking
   - Addition of hydrogen atoms using rdkit.
   - Generation of the `.pdbqt` file for docking by Meeko. 
 
-### 2. `Docking_when_prior_knowledge_available.ipynb`
+### 2. [`Docking_when_prior_knowledge_available.ipynb`](Docking_when_prior_knowledge_available.ipynb)
 This notebook performs docking using **AutoDock Vina** when prior knowledge is available. In this case, docking is guided by a reference ligand used to center the search box as:
 
 - The docking box is set up with dimensions **25 Å × 25 Å × 25 Å** centered on the reference ligand.
 
-### 3. `Docking_when_guided_by_single_Model.ipynb`
+### 3. [`Docking_when_guided_by_single_Model.ipynb`](Docking_when_guided_by_single_Model.ipynb)
 This notebook is dedicated to docking the **PoseBusters dataset** when using a **single neural network** for pocket prediction. The following models are tested:
 
 - **Kalasanty**
@@ -31,7 +32,7 @@ This notebook is dedicated to docking the **PoseBusters dataset** when using a *
 
 **Thresholds used for pocket prediction:** `[2, 5, 10, 15]`
 
-### 4. `Guided_Docking_by_ensembled_RAPID_Net.ipynb`
+### 4. [`Guided_Docking_by_ensembled_RAPID_Net.ipynb`](Guided_Docking_by_ensembled_RAPID_Net.ipynb)
 This notebook performs docking using an **ensembled version of 5 RAPID-Net models**, which improves overall docking performance.
 
 - **Pocket classification thresholds:**
