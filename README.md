@@ -22,7 +22,14 @@ A complete example of pocket prediction for 8F4J and its use for guided docking 
 
 [🔗 Zenodo Link: Pocket Prediction & Guided Docking for Protein 8F4J](https://zenodo.org/records/15026755)  
 
+8F4J protein is illustrated below:
 !["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J_PHO_combined.png) 
+
+In a similar way, using the same notebook, one can perform "blind" docking for any protein in PoseBusters and Astex Diverse Set.
+
+A complete example of pocket prediction for ABHD5 protein, generation of initial ligand conformation from IUPAC or SMILES, the guided docking, and PLIP interaction profiling is provided in this **Jupyter Notebook**:  
+
+!["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Vina_Setup.png) 
 
 ## Citation  
 
