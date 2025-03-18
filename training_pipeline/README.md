@@ -13,5 +13,5 @@ This folder contains Jupyter notebooks containing a complete training pipeline f
 
 - **Follow instructions in the notebooks.**  Open the notebooks in Google Colab or your preferred Jupyter Notebook environment and run the notebooks sequentially to preprocess the data and train the RAPID-Net model.
    
-Happy Training! 😊🏋️‍♂️💪
+Happy Training! 😊🏋️‍♂️💪📚
 
