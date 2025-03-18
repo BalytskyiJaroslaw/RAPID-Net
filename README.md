@@ -42,3 +42,36 @@ If you use RAPID-Net in your research, please cite our paper:
   journal={arXiv preprint arXiv:2502.02371},
   year={2025}
 }
+
+## Thanks
+
+We use the following software tools for processing proteins and ligands, as well as for their visualization:
+
+## Citations
+
+This repository makes use of several software tools and datasets. Please cite the following when using this repository:
+
+- **OpenBabel**  
+  O'Boyle, N. M., Banck, M., James, C. A., Morley, C., Vandermeersch, T., Hutchison, G. R. (2011). Open Babel: An open chemical toolbox. *Journal of Cheminformatics, 3*, 33. [https://doi.org/10.1186/1758-2946-3-33](https://doi.org/10.1186/1758-2946-3-33)
+
+- **RDKit**  
+  RDKit: Open-source cheminformatics. [https://www.rdkit.org](https://www.rdkit.org)
+
+- **Reduce**  
+  Word, J. M., Lovell, S. C., Richardson, J. S., & Richardson, D. C. (1999). Asparagine and glutamine: Using hydrogen atom contacts in the choice of side-chain amide orientation. *Journal of Molecular Biology, 285*(4), 1735-1747. [https://doi.org/10.1006/jmbi.1998.2401](https://doi.org/10.1006/jmbi.1998.2401)
+
+- **Meeko**  
+  For ligand preparation with AutoDock-GPU and AutoDock Vina. GitHub repository: [https://github.com/forlilab/Meeko](https://github.com/forlilab/Meeko)
+
+- **PoseBusters**  
+  Durrant, J. D., & McCammon, J. A. (2022). PoseBusters: An automatic tool for evaluating the accuracy of protein-ligand complexes in molecular docking. *Journal of Chemical Information and Modeling, 62*(12), 2934–2943. [https://doi.org/10.1021/acs.jcim.2c00387](https://doi.org/10.1021/acs.jcim.2c00387)
+
+- **LaboDock**  
+  GitHub repository: [https://github.com/milobioinformatics/LaboDock](https://github.com/milobioinformatics/LaboDock)
+
+- **py3Dmol**  
+  py3Dmol: An interactive 3D molecular visualization tool for Jupyter Notebooks. GitHub repository: [https://github.com/3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
+
+- **PyMOL**  
+  Schrödinger, LLC. (2015). The PyMOL Molecular Graphics System, Version 2.0. [https://pymol.org](https://pymol.org)
+
