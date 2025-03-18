@@ -33,7 +33,6 @@ A complete example of pocket prediction for ABHD5 protein, generation of initial
 
 ➡ **[ABHD5 Protein Docking Demonstration (Zenodo)](https://zenodo.org/records/15048009)**
 
-
 !["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Vina_Setup.png) 
 
 ## Citation  
