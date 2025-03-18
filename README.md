@@ -56,13 +56,16 @@ We use the following software tools for processing proteins and ligands, as well
   Word, J. M., Lovell, S. C., Richardson, J. S., & Richardson, D. C. (1999). Asparagine and glutamine: Using hydrogen atom contacts in the choice of side-chain amide orientation. *Journal of Molecular Biology, 285*(4), 1735-1747. [https://doi.org/10.1006/jmbi.1998.2401](https://doi.org/10.1006/jmbi.1998.2401)
 
 - **Meeko**  
-  For ligand preparation with AutoDock-GPU and AutoDock Vina. GitHub repository: [https://github.com/forlilab/Meeko](https://github.com/forlilab/Meeko)
+ Interface for AutoDock, molecule parameterization. GitHub repository: [https://github.com/forlilab/Meeko](https://github.com/forlilab/Meeko)
 
 - **PoseBusters**  
-  Durrant, J. D., & McCammon, J. A. (2022). PoseBusters: An automatic tool for evaluating the accuracy of protein-ligand complexes in molecular docking. *Journal of Chemical Information and Modeling, 62*(12), 2934–2943. [https://doi.org/10.1021/acs.jcim.2c00387](https://doi.org/10.1021/acs.jcim.2c00387)
+  Buttenschoen, M., Morris, G. M., & Deane, C. M. (2024).  
+  *PoseBusters: AI-Based Docking Methods Fail to Generate Physically Valid Poses or Generalise to Novel Sequences.*  
+  Chemical Science, 15(9), 3130–3139.  
+  [https://doi.org/10.1039/D3SC06192H](https://doi.org/10.1039/D3SC06192H)
 
 - **LaboDock**  
-  GitHub repository: [https://github.com/milobioinformatics/LaboDock](https://github.com/milobioinformatics/LaboDock)
+  LABODOCK: A Colab-Based Molecular Docking Tools: [[https://github.com/milobioinformatics/LaboDock](https://github.com/RyanZR/labodock)]([https://github.com/milobioinformatics/LaboDock](https://github.com/RyanZR/labodock))
 
 - **py3Dmol**  
   py3Dmol: An interactive 3D molecular visualization tool for Jupyter Notebooks. GitHub repository: [https://github.com/3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js)
