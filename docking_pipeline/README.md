@@ -4,7 +4,7 @@ This directory contains Jupyter notebooks for preparing protein and ligand files
 
 ## Notebooks Overview
 
-### 1. `Prepare_Proteins_and_Ligands_for_docking.ipynb 
+### 1. `Prepare_Proteins_and_Ligands_for_docking.ipynb` 
 This notebook is dedicated to preparing the protein and ligand files for docking:
 
 - **Protein processing:**
