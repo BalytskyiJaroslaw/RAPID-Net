@@ -35,21 +35,16 @@ A complete example of pocket prediction for ABHD5 protein, generation of initial
 
 If you use RAPID-Net in your research, please cite our paper:  
 
-```bibtex
 @article{balytskyi2025accurate,
-  title={Accurate Pocket Identification for Binding-Site-Agnostic Docking},
-  author={Balytskyi, Yaroslav and Hubenko, Inna and Balytska, Alina and Kelly, Christopher V},
-  journal={arXiv preprint arXiv:2502.02371},
-  year={2025}
+  title = {Accurate Pocket Identification for Binding-Site-Agnostic Docking},
+  author = {Balytskyi, Yaroslav and Hubenko, Inna and Balytska, Alina and Kelly, Christopher V.},
+  journal = {arXiv preprint arXiv:2502.02371},
+  year = {2025}
 }
 
 ## Thanks
 
 We use the following software tools for processing proteins and ligands, as well as for their visualization:
-
-## Citations
-
-This repository makes use of several software tools and datasets. Please cite the following when using this repository:
 
 - **OpenBabel**  
   O'Boyle, N. M., Banck, M., James, C. A., Morley, C., Vandermeersch, T., Hutchison, G. R. (2011). Open Babel: An open chemical toolbox. *Journal of Cheminformatics, 3*, 33. [https://doi.org/10.1186/1758-2946-3-33](https://doi.org/10.1186/1758-2946-3-33)
