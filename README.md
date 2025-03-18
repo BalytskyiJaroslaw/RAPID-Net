@@ -53,7 +53,12 @@ We use the following software tools for processing proteins and ligands, as well
   RDKit: Open-source cheminformatics. [https://www.rdkit.org](https://www.rdkit.org)
 
 - **Reduce**  
-  Word, J. M., Lovell, S. C., Richardson, J. S., & Richardson, D. C. (1999). Asparagine and glutamine: Using hydrogen atom contacts in the choice of side-chain amide orientation. *Journal of Molecular Biology, 285*(4), 1735-1747. [https://doi.org/10.1006/jmbi.1998.2401](https://doi.org/10.1006/jmbi.1998.2401)
+  *Reduce* is a tool for adding and correcting hydrogen atoms in PDB files.  
+  We used an older version of Reduce:  
+  [https://github.com/rlabduke/reduce](https://github.com/rlabduke/reduce).  
+
+  A newer version, **Reduce2**, is available here:  
+  [https://github.com/cctbx/cctbx_project/tree/master/mmtbx/reduce](https://github.com/cctbx/cctbx_project/tree/master/mmtbx/reduce).
 
 - **Meeko**  
  Interface for AutoDock, molecule parameterization. GitHub repository: [https://github.com/forlilab/Meeko](https://github.com/forlilab/Meeko)
