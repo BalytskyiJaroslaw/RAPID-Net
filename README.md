@@ -22,6 +22,8 @@ A complete example of pocket prediction for 8F4J and its use for guided docking 
 
 [🔗 Zenodo Link: Pocket Prediction & Guided Docking for Protein 8F4J](https://zenodo.org/records/15026755)  
 
+!["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J_PHO_combined.png) 
+
 ## Citation  
 
 If you use RAPID-Net in your research, please cite our paper:  
