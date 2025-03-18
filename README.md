@@ -20,7 +20,7 @@ These predicted pockets provide accurate initial approximations for AutoDock Vin
 
 A complete example of pocket prediction for 8F4J and its use for guided docking is provided in this **Jupyter Notebook**:  
 
-[🔗 Zenodo Link: Pocket Prediction & Guided Docking for Protein 8F4J](https://zenodo.org/records/15026755)  
+➡ **[8F4J Protein Docking Demonstration (Zenodo)](https://zenodo.org/records/15026755)**
 
 8F4J protein is illustrated below:
 !["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J_PHO_combined.png) 
