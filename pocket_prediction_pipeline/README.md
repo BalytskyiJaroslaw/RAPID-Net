@@ -13,11 +13,7 @@ This script defines the **neural network architecture** used for accurate **bind
 
 Pre-trained RAPID-Net weights are available on **Zenodo**:  
 🔗 **[Zenodo Repository – RAPID-Net Weights](https://zenodo.org/records/14796981)**  
-
-These weights were published on **February 3, 2025**, as part of the dataset:  
-📖 **"Accurate Pocket Identification for Binding-Site-Agnostic Docking"**  
-🧑‍💻 **Author:** Yaroslav Balytskyi ([ORCID](https://orcid.org/))  
-
+ 
 ### 📌**Available Weight Files (567.7 MB total):**  
 
 | File Name | MD5 Checksum | Size |
