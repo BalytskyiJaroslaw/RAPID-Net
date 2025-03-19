@@ -1,4 +1,4 @@
-# RAPID-Net Comparison
+## 🦁 RAPID-Net's Advantage for Docking: The Case of 8F4J Protein  
 
 This subfolder contains several **screenshots** highlighting key limitations of AlphaFold 3 and demonstrating how our model's precise pocket predictions effectively overcome these challenges. These images are also referenced in the demo notebooks to visually illustrate the concepts being discussed.
 
