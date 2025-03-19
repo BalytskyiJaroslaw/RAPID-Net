@@ -18,7 +18,7 @@ Unlike other Deep Learning models, RAPID-Net uses **soft labels** to account for
 
 These predicted pockets provide accurate initial approximations for AutoDock Vina search grids, greatly improving docking efficiency and accuracy, as illustrated by the following example: 
 
-## Pocket Prediction & Guided Docking Example by AutoDock Vina for 8F4J protein which AlphaFold 3 cannot process as a whole (but is processed smoothly by RAPID-Net 😊)
+## Pocket Prediction & Guided Docking Example for 8F4J protein which AlphaFold 3 cannot process as a whole, but RAPID-Net handles it smoothly! 😊
 
 A complete example of pocket prediction for 8F4J and its use for guided docking is provided in this **Jupyter Notebook**:  
 
