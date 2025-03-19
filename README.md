@@ -2,7 +2,9 @@
 
 ![RAPID-Net](https://raw.githubusercontent.com/BalytskyiJaroslaw/RAPID-Net/main/RAPID_combine.png)
 
-In this repository, we implement **RAPID-Net**, a Deep Learning model for accurate protein-ligand pocket identification, leading to improved ligand docking in the absence of prior knowledge of the binding site location. This work corresponds to our paper:
+In this repository, we implement **RAPID-Net**, a Deep Learning model for accurate protein-ligand pocket identification, leading to improved ligand docking in the absence of prior knowledge of the binding site location. Additionally, RAPID-Net can identify remote protein sites that indirectly affect ligand binding, providing a deeper understanding of protein-ligand interactions.
+
+This work corresponds to our paper:
 
 ➡ **[Accurate Pocket Identification for Binding-Site-Agnostic Docking](https://arxiv.org/abs/2502.02371)**  
 *Yaroslav Balytskyi, Inna Hubenko, Alina Balytska, Christopher V. Kelly*  
