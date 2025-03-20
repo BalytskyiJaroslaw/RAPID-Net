@@ -43,7 +43,9 @@ An example of grid generation based on the predicted pocket is shown below:
 !["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Vina_Setup.png) 
 
 ## Pocket prediction and its usage for guided docking, for 8F4J protein from PoseBusters
-[![First Slide](https://img.youtube.com/vi/EkUKmoW11pE/maxresdefault.jpg)](https://youtu.be/EkUKmoW11pE)
+## Watch the Video
+[![First Slide](https://img.youtube.com/vi/EkUKmoW11pE/0.jpg)](https://youtu.be/EkUKmoW11pE)
+
 
 ## Citation  
 
