@@ -86,6 +86,12 @@ We use the following software tools for processing proteins and ligands, as well
   Chemical Science, 15(9), 3130–3139.  
   [https://doi.org/10.1039/D3SC06192H](https://doi.org/10.1039/D3SC06192H)
 
+- **PLIP (Protein-Ligand Interaction Profiler)**  
+  PLIP: A fully automated tool for analyzing protein-ligand interactions.  
+  GitHub Repository: [https://github.com/pharmai/plip](https://github.com/pharmai/plip)  
+  Official Website: [https://plip-tool.biotec.tu-dresden.de](https://plip-tool.biotec.tu-dresden.de)  
+  Reference: Salentin et al., 2015, "PLIP: Fully Automated Protein–Ligand Interaction Profiler," *Nucleic Acids Research*, 43(W1): W443–W447. [DOI: 10.1093/nar/gkv315](https://doi.org/10.1093/nar/gkv315)
+
 - **LaboDock**  
   LABODOCK: A Colab-Based Molecular Docking Tools: [[https://github.com/milobioinformatics/LaboDock](https://github.com/RyanZR/labodock)]([https://github.com/milobioinformatics/LaboDock](https://github.com/RyanZR/labodock))
 
