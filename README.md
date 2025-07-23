@@ -1,4 +1,4 @@
-# Accurate Pocket Identification for Binding-Site-Agnostic Docking  
+# RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking  
 
 
 <p align="center">
@@ -16,9 +16,9 @@ This work corresponds to our paper:
 *Yaroslav Balytskyi, Inna Hubenko, Alina Balytska, Christopher V. Kelly*  
 arXiv preprint, 2025.  
 
-## Performance on the Most Challenging Novel Structures
+## Performance on the Most Challenging Novel Protein-Ligand Structures
 
-On the **130 most recent protein-ligand complexes** from the PoseBusters benchmark—designed to test generalization to unseen data—**RAPID-Net + AutoDock Vina** achieves a **Top-1 pose accuracy of 53.1%**, compared to **59.5% for AlphaFold 3**.
+On the **130 most recent protein-ligand complexes** from the PoseBusters benchmark -- designed to test generalization ability to unseen data -- **RAPID-Net + AutoDock Vina** achieves a **Top-1 pose accuracy of 53.1%**, compared to **59.5% for AlphaFold 3**.
 
 ![PoseBusters Top-130 Novel Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png)
 
