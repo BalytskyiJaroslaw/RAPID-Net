@@ -16,6 +16,10 @@ This work corresponds to our paper:
 *Yaroslav Balytskyi, Inna Hubenko, Alina Balytska, Christopher V. Kelly*  
 arXiv preprint, 2025.  
 
+## On the most novel 130 protein-ligand structures, RAPID-Net + AutoDock Vina has 53.1% accuracy in comparison to AlphaFold 3 59.5%
+
+![130 most new](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png) 
+
 ## Model Overview  
 
 Unlike other Deep Learning models, RAPID-Net uses **soft labels** to account for uncertainty in pocket boundaries and **L² Soft Dice loss function**, which provides more accurate and generalized pocket predictions. Additionally, our model integrates an attention mechanism. Interestingly, we found that removing redundant residual connections enhances performance, thus we refined the architecture accordingly. The model's design is illustrated below:
