@@ -22,11 +22,13 @@ On the **130 most recent protein-ligand complexes** from the PoseBusters benchma
 
 ![PoseBusters Top-130 Novel Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png)
 
-## Performance on the whole PoseBusters dataset
+## Performance on the Full PoseBusters Benchmark
 
-**RAPID-Net + AutoDock Vina** achieves a **Top-1 pose accuracy of 53.1%**, compared to **59.5% for AlphaFold 3**.
+Across the **entire PoseBusters dataset**, **RAPID-Net–guided AutoDock Vina** achieves a **Top-1 pose accuracy of 54.9%**, in comparison to **DiffBind-FR**, which reaches **49.1%**.
 
 ![PoseBusters All Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/PoseBusters_Blind_Docking_Results.png)
+
+
 
 
 ## Model Overview  
