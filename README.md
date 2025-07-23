@@ -28,17 +28,6 @@ Across the **entire PoseBusters dataset**, **RAPID-Net–guided AutoDock Vina** 
 
 ![PoseBusters All Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/PoseBusters_Blind_Docking_Results.png)
 
-
-
-
-## Model Overview  
-
-Unlike other Deep Learning models, RAPID-Net uses **soft labels** to account for uncertainty in pocket boundaries and **L² Soft Dice loss function**, which provides more accurate and generalized pocket predictions. Additionally, our model integrates an attention mechanism. Interestingly, we found that removing redundant residual connections enhances performance, thus we refined the architecture accordingly. The model's design is illustrated below:
-
-![RAPID-Net Architecture](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_diagram_insert.png)  
-
-These predicted pockets provide accurate initial approximations for AutoDock Vina search grids, greatly improving docking efficiency and accuracy, as illustrated by the following example: 
-
 ## Pocket Prediction & Guided Docking Example for 8F4J protein which AlphaFold 3 cannot process as a whole, but RAPID-Net handles it smoothly! 😊
 
 A complete example of pocket prediction for 8F4J and its use for guided docking is provided in this **Jupyter Notebook**:  
@@ -48,7 +37,15 @@ A complete example of pocket prediction for 8F4J and its use for guided docking 
 8F4J protein is illustrated below:
 !["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J.png) 
 
-In a similar way, using the same notebook, one can perform "blind" docking for any protein in PoseBusters and Astex Diverse Set.
+## Model Overview  
+
+Unlike other Deep Learning models, RAPID-Net uses **soft labels** to account for uncertainty in pocket boundaries and **L² Soft Dice loss function**, which provides more accurate and generalized pocket predictions. Additionally, our model integrates an attention mechanism. Interestingly, we found that removing redundant residual connections enhances performance, thus we refined the architecture accordingly. The model's design is illustrated below:
+
+![RAPID-Net Architecture](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_diagram_insert.png)  
+
+These predicted pockets provide accurate initial approximations for AutoDock Vina search grids, greatly improving docking efficiency and accuracy, as illustrated by the following example: 
+
+Using the same notebook, one can perform "blind" docking for any protein in PoseBusters and Astex Diverse Set.
 
 ## ABHD5 Docking Demonstration
 
