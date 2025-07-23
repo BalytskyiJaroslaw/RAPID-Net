@@ -25,7 +25,7 @@ A complete example of pocket prediction for 8F4J and its use for guided docking 
 ➡ **[8F4J Protein Docking Demonstration (Zenodo)](https://zenodo.org/records/15026755)**
 
 8F4J protein is illustrated below:
-!["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J_PHO_combined.png) 
+!["Blind" docking for 8F4J protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/8F4J.png) 
 
 In a similar way, using the same notebook, one can perform "blind" docking for any protein in PoseBusters and Astex Diverse Set.
 
