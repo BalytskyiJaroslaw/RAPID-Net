@@ -16,9 +16,11 @@ This work corresponds to our paper:
 *Yaroslav Balytskyi, Inna Hubenko, Alina Balytska, Christopher V. Kelly*  
 arXiv preprint, 2025.  
 
-## On the most novel 130 protein-ligand structures, RAPID-Net + AutoDock Vina has 53.1% accuracy in comparison to AlphaFold 3 59.5%
+## Performance on the Most Challenging Novel Structures
 
-![130 most new](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png) 
+On the **130 most recent protein-ligand complexes** from the PoseBusters benchmark—designed to test generalization to unseen data—**RAPID-Net + AutoDock Vina** achieves a **Top-1 pose accuracy of 53.1%**, compared to **59.5% for AlphaFold 3**.
+
+![PoseBusters Top-130 Novel Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png)
 
 ## Model Overview  
 
