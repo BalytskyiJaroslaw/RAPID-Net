@@ -1,4 +1,4 @@
-# RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking  
+# Accurate Pocket Identification for Binding-Site-Agnostic Docking  
 
 
 <div style="text-align: center;">
