@@ -1,5 +1,5 @@
 <h1 align="left">
-  RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking
+  RAPID-Net
   <a href="https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/New_Logo.png" target="_blank">
     <img src="https://raw.githubusercontent.com/BalytskyiJaroslaw/RAPID-Net/main/New_Logo.png" alt="RAPID-Net" width="60" style="vertical-align: middle; margin-left: 10px;">
   </a>
