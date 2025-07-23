@@ -22,6 +22,13 @@ On the **130 most recent protein-ligand complexes** from the PoseBusters benchma
 
 ![PoseBusters Top-130 Novel Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png)
 
+## Performance on the whole PoseBusters dataset
+
+**RAPID-Net + AutoDock Vina** achieves a **Top-1 pose accuracy of 53.1%**, compared to **59.5% for AlphaFold 3**.
+
+![PoseBusters All Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/PoseBusters_Blind_Docking_Results.png)
+
+
 ## Model Overview  
 
 Unlike other Deep Learning models, RAPID-Net uses **soft labels** to account for uncertainty in pocket boundaries and **L² Soft Dice loss function**, which provides more accurate and generalized pocket predictions. Additionally, our model integrates an attention mechanism. Interestingly, we found that removing redundant residual connections enhances performance, thus we refined the architecture accordingly. The model's design is illustrated below:
