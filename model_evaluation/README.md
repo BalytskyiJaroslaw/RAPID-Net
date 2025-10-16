@@ -20,6 +20,7 @@ The pocket predictors were evaluated based on docking accuracy and pocket-ligand
 Before using these notebooks, users should first download the corresponding results from Zenodo repositories:
 
 - **[Docking Results for Astex and PoseBusters when Guided by P2Rank, for comparison](https://zenodo.org/records/17354899)**
+- **[Comparison of scPDB and PoseBusters using Foldseek](https://zenodo.org/records/17363980)**
 - **[Docking Results for the PoseBusters Dataset when Guided by Different Pocket Predictors](https://zenodo.org/records/14926719)**
 - **[Docking Results for the Astex Diverse Set when Guided by Different Pocket Predictors](https://zenodo.org/records/14932535)**
 - **[Pocket Predictions for Coach420 Dataset, Evaluated Based on PLI](https://zenodo.org/records/14933126)**
