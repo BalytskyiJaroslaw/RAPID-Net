@@ -22,6 +22,12 @@ On the **130 most recent protein-ligand complexes** from the PoseBusters benchma
 
 ![PoseBusters Top-130 Novel Structures](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Most_New_PoseBusters_Blind_Docking_Results.png)
 
+For comparison, we also evaluated the docking performance of P2Rank + AutoDock Vina, and got different results than those reported by PoseBench. P2Rank + AutoDock Vina* corresponds to our evaluation, P2Rank + AutoDock Vina** corresponds to the evaluation performed by PoseBench. 
+
+RAPID-Net is most advantageous for large proteins, for example, 8F4J, where P2Rank predicts 177 pockets, but RAPID-Net successfully docks with fewer runs. 
+
+But in the future, we will need to update the pocket segmentation subroutine. Some of ``Minority-reported'' pockets are too large and effectively useless. 
+
 ## Performance on the Full PoseBusters Benchmark
 
 Across the **entire PoseBusters dataset**, **RAPID-Net–guided AutoDock Vina** achieves a **Top-1 pose accuracy of 54.9%**, in comparison to **DiffBind-FR**, which reaches **49.1%**.
