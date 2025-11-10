@@ -61,7 +61,7 @@ A complete example of pocket prediction for ABHD5 protein, generation of initial
 
 A **clean version** of the notebook is available, which works for **any protein** (without the ABHD5-specific output).  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/RAPID-Net/blob/main/Demo_docking_guided_by_RAPID_Net_ABHD5_as_an_example_submit_clean.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_Net_demo_for_ABHD5.ipynb)
 
 An example of grid generation based on the predicted pocket is shown below:
 !["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Vina_Setup.png) 
