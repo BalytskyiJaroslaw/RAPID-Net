@@ -55,14 +55,14 @@ Using the same notebook, one can perform "blind" docking for any protein in Pose
 
 ### 🧩 ABHD5 Docking Demonstration
 
-This Colab notebook demonstrates the **RAPID-Net** pocket prediction and docking workflow  
-using the **ABHD5** protein structure [`ab5_ckfix.pdb`](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/ab5_ckfix.pdb)  
-as an example.
+This Colab notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_Net_demo_for_ABHD5.ipynb)
 
+demonstrates the **RAPID-Net** pocket prediction and docking workflow using the **ABHD5** protein structure, generation of initial ligand conformation from IUPAC or SMILES, the guided docking, and PLIP interaction profiling [`ab5_ckfix.pdb`](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/ab5_ckfix.pdb)  
+as an example.
 
-A complete example of pocket prediction for ABHD5 protein, generation of initial ligand conformation from IUPAC or SMILES, the guided docking, and PLIP interaction profiling is provided in this **Jupyter Notebook**: 
+This **Jupyter Notebook** (old version) contains the outputs as well:
 
 ➡ **[ABHD5 Protein Docking Demonstration (Zenodo)](https://zenodo.org/records/15048009)**
 
