@@ -53,15 +53,18 @@ These predicted pockets provide accurate initial approximations for AutoDock Vin
 
 Using the same notebook, one can perform "blind" docking for any protein in PoseBusters and Astex Diverse Set.
 
-## ABHD5 Docking Demonstration
+### 🧩 ABHD5 Docking Demonstration
+
+This Colab notebook demonstrates the **RAPID-Net** pocket prediction and docking workflow  
+using the **ABHD5** protein structure [`ab5_ckfix.pdb`](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/ab5_ckfix.pdb)  
+as an example.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_Net_demo_for_ABHD5.ipynb)
+
 
 A complete example of pocket prediction for ABHD5 protein, generation of initial ligand conformation from IUPAC or SMILES, the guided docking, and PLIP interaction profiling is provided in this **Jupyter Notebook**: 
 
 ➡ **[ABHD5 Protein Docking Demonstration (Zenodo)](https://zenodo.org/records/15048009)**
-
-A **clean version** of the notebook is available, which works for **any protein** (without the ABHD5-specific output).  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalytskyiJaroslaw/RAPID-Net/blob/main/RAPID_Net_demo_for_ABHD5.ipynb)
 
 An example of grid generation based on the predicted pocket is shown below:
 !["Blind" docking for ABHD5 protein](https://github.com/BalytskyiJaroslaw/RAPID-Net/blob/main/Vina_Setup.png) 
