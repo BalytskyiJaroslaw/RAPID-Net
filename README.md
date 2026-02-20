@@ -12,9 +12,10 @@ In this repository, we implement **RAPID-Net**, a Deep Learning model for accura
 
 This work corresponds to our paper:
 
-➡ **[Accurate Pocket Identification for Binding-Site-Agnostic Docking](https://arxiv.org/abs/2502.02371)**  
-*Yaroslav Balytskyi, Inna Hubenko, Alina Balytska, Christopher V. Kelly*  
-arXiv preprint, 2025.  
+➡ **[RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01744)**  
+Yaroslav Balytskyi*, Inna Hubenko, Alina Balytska, Christopher V. Kelly  
+*Journal of Chemical Information and Modeling*, **65**(22), 2025.  
+https://doi.org/10.1021/acs.jcim.5c01744
 
 ## Performance on the Most Challenging Novel Protein-Ligand Structures
 
@@ -79,11 +80,15 @@ An example of grid generation based on the predicted pocket is shown below:
 
 If you use RAPID-Net in your research, please cite our paper:  
 
-@article{balytskyi2025accurate,
-  title = {Accurate Pocket Identification for Binding-Site-Agnostic Docking},
-  author = {Balytskyi, Yaroslav and Hubenko, Inna and Balytska, Alina and Kelly, Christopher V.},
-  journal = {arXiv preprint arXiv:2502.02371},
-  year = {2025}
+@article{balytskyi2025rapid,
+  title={RAPID-Net: Accurate Pocket Identification for Binding-Site-Agnostic Docking},
+  author={Balytskyi, Yaroslav and Hubenko, Inna and Balytska, Alina and Kelly, Christopher V},
+  journal={Journal of Chemical Information and Modeling},
+  volume={65},
+  number={22},
+  pages={12221--12239},
+  year={2025},
+  publisher={ACS Publications}
 }
 
 ## Thanks
